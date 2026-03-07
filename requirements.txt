@@ -1,0 +1,25 @@
+pandas
+numpy
+scikit-learn
+xgboost
+
+# For fairness
+fairlearn
+aif360
+
+#For explainability
+shap
+lime
+
+#For robustness: ART
+adversarial-robustness-toolbox
+
+#For monitoring
+evidently
+
+#Dashboard
+streamlit
+plotly
+
+#Documentation
+jinja2
